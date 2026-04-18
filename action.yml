@@ -41,7 +41,7 @@ outputs:
   release_id:
     description: "The ID that was returned for this release"
 runs:
-  using: "node20"
+  using: "node24"
   main: "dist/index.js"
 branding:
   icon: "git-merge"
