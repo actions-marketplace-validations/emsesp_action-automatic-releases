@@ -2,16 +2,7 @@
 
 This action simplifies the GitHub release process by automatically uploading assets, generating changelogs, handling pre-releases, and so on.
 
-Original work by marvinpinto, updated and refactored by crowbarmaster and then modified for EMS-ESP.
-
-## Contents
-
-1. [Usage Examples](#usage-examples)
-1. [Supported Parameters](#supported-parameters)
-1. [Event Triggers](#event-triggers)
-1. [Versioning](#versioning)
-1. [How to get help](#how-to-get-help)
-1. [License](#license)
+Original work by marvinpinto, updated and refactored by crowbarmaster (https://github.com/crowbarmaster/GHactions) and then modified for EMS-ESP.
 
 ## Usage Examples
 
